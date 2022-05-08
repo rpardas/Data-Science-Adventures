@@ -1,6 +1,11 @@
  # Data science and machine learning projects
 
- ## bank_marketing
+## Resources, exercises and projects from the 'Applied ML and Data Science with Python' course (March, 2020) at Emory University (tought by Sridhar Palle, Ph.D)
+
+These are primarily Jupyter notebooks using Anacaonda.
+
+ ### bank_marketing
+ ### (Capstone project)
 
 We will use a marketing/banking dataset obtained from the UCI Machine Learning repository - https://archive.ics.uci.edu/ml/datasets/Bank+Marketing
 
@@ -15,4 +20,8 @@ We will use sklearn for
  - comparing 4 models (DummyClassifier, LogisticRegression, DecisionTreeClassifier, RandomForestClassifier)
  - comparing metrics (confusion matrix, accuracy, recall, f1, precision, auc)
 
+### numpy_pandas_intro
 
+- Numpy.ipynb
+    
+    A walkthrough of common numpy features
