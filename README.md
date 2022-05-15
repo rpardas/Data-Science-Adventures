@@ -25,3 +25,7 @@ We will use sklearn for
 - Numpy.ipynb
     
     A walkthrough of common numpy features
+
+- Pandas.ipynb
+
+    A walkthrough of common pandas features
