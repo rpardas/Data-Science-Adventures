@@ -22,10 +22,14 @@ We will use sklearn for
 
 ### numpy_pandas_intro
 
-- Numpy.ipynb
+- numpy.ipynb
     
     A walkthrough of common numpy features
 
-- Pandas.ipynb
+- pandas.ipynb
 
     A walkthrough of common pandas features
+
+- numpy_pandas_in_practice.ipynb
+
+    A few samples of what numpy and pandas can do
