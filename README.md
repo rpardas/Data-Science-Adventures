@@ -1,6 +1,6 @@
  # Data science and machine learning projects
 
-## Resources, exercises and projects from the 'Applied ML and Data Science with Python' course (March, 2020) at Emory University (tought by Sridhar Palle, Ph.D)
+## Resources, exercises and projects from the 'Applied ML and Data Science with Python' course (March, 2020) at Emory University (tought by Sridhar Palle, Ph.D spalle@emory.edu)
 
 These are primarily Jupyter notebooks using Anacaonda.
 
@@ -33,3 +33,9 @@ We will use sklearn for
 - numpy_pandas_in_practice.ipynb
 
     A few samples of what numpy and pandas can do
+
+### supervised_ml
+
+- ml_classification.ipynb
+
+    Explore a breast cancer dataset with *sklearn* and supervised ML
