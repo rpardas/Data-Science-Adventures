@@ -36,6 +36,10 @@ We will use sklearn for
 
 ### supervised_ml
 
-- ml_classification.ipynb
+- sml-classification.ipynb
 
     Explore a breast cancer dataset with *sklearn* and supervised ML
+
+- sml-classification.ipynb
+
+    Explore a *sklearn* diabetes dataset with regression.
